@@ -30,5 +30,5 @@ if __name__ == "__main__":
 def some_other_function(a, b):
     return a * b
 
-def surajFunction():
+def shubhamsFunction():
     return 'shubham'
