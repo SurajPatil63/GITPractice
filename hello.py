@@ -26,4 +26,3 @@ if __name__ == "__main__":
     print(greet("Suraj"))
     print("Sum of 5 and 3 is:", add_numbers(5, 3))
     print("Sum of 5 and 3 is:", add_numbers(5, 3))
-
